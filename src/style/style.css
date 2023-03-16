@@ -1,0 +1,15 @@
+*{
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.home-name{
+    font-size: 1.4rem;
+    padding-top: 2.1rem;
+    margin-left: 2em;
+}
+
+.main-skill{
+    font-weight: 700;
+    margin-left: 1.3em;
+    font-size: 2.1rem;
+}
