@@ -13,3 +13,7 @@
     margin-left: 1.3em;
     font-size: 2.1rem;
 }
+
+.photo-profile img{
+    border-radius: 2em;
+}
